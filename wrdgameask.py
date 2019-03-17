@@ -14,28 +14,6 @@ ask=Ask(app,"/word_game")
 
 wordlist= json.load(open("words.json"))
 
-
-"""wordlist = {
-    "Lion":{
-    "Clue1":"It is Wild Animal",
-    "Clue2":"It is King of Forest"
-    },
-    "Tiger":{
-    "Clue1":"It is Wild Animal",
-    "Clue2":"National animal of India"
-    },
-    "Tortoise":{
-    "Clue1":"It goes very slowly",
-    "Clue2":"It won the race against Hare"
-    },
-    "Airplane":{
-    "Clue1":"It is transport",
-    "Clue2":"It flies in the Air"
-    },
-}
-"""
-
-
 @app.route('/')
 def homepage():
     return "Hi there , How are you doing?"
