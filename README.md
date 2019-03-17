@@ -5,7 +5,7 @@ Project 1 : Alexa Word Game
 Level : Beginner
 Effort : 2 hour
 
-To be honest, I spent more time to get this word game working as I am new to Python Programming and Alexa. I faced issued while installing the Flask-ask package in the my machine  and  then understaning the Alexa : Intent , Slot and Utterences.
+To be honest, I spent more time to get this word game working as I am new to Python Programming and Alexa. I faced issues while installing the Flask-ask package in the my machine  and  then understaning the Alexa : Intent , Slot and Utterences.
 Once I understood , it looked very simple program.
 
 The App works as below :
@@ -35,8 +35,17 @@ The App works as below :
 						17. Alexa : Sorry Better luck next time. The Word is {.....}
 		18. Me : I give up
 		19.Alexa : The Word is {....}
-					
-					
+		
+Before jumping into action for the project , I would suggest you to go through the basics of 
+
+1. Flask_Ask package and it is minimum required code structure.
+2. Alexa - Launch Intent , Built-In Intent , Custom Intent , Fall Back Intent
 	
+					
+					
+					
+References :
+1. https://flask-ask.readthedocs.io/
+2. https://pythonprogramming.net/testing-deploying-alexa-skill-flask-ask-python-tutorial/?completed=/headlines-function-alexa-skill-flask-ask-python-tutorial/
 
 
