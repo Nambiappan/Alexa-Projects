@@ -1,0 +1,90 @@
+{
+    "Lion":{
+    "Clue1":"It is Wild Animal",
+    "Clue2":"It is King of Forest"
+    },
+    "Tiger":{
+    "Clue1":"It is Wild Animal",
+    "Clue2":"National animal of India"
+    },
+    "Tortoise":{
+    "Clue1":"It goes very slowly",
+    "Clue2":"It won the race against Hare"
+    },
+    "Airplane":{
+    "Clue1":"It is transport",
+    "Clue2":"It flies in the Air"
+    },
+    "Bus":{
+    "Clue1":"It is transport",
+    "Clue2":"It can carry 30 to 50 Passengers"
+    },
+    "Car":{
+    "Clue1":"It is transport",
+    "Clue2":"It has four wheels and can carry 4 to 6 People"
+    },
+    "Train":{
+    "Clue1":"It is transport",
+    "Clue2":"It has compartments and it can carry more than 100 Passengers"
+    },
+    "Ship":{
+    "Clue1":"It is transport",
+    "Clue2":"It sails in the Sea"
+    },
+    "Tram":{
+    "Clue1":"It is transport",
+    "Clue2":"It is like Train but goes on the street . We could see it in Munich"
+    },
+    "Dog":{
+    "Clue1":"It is Pet animal",
+    "Clue2":"It is very good in sniffing"
+    },
+    "Banana":{
+    "Clue1":"It is a Fruit",
+    "Clue2":"It has Yellow Sking and good for digestion"
+    },
+    "Papaya":{
+    "Clue1":"It is a Fruit",
+    "Clue2":"It has good for blood purifiier and the last three letter ends with aya"
+    },
+    "Rice":{
+    "Clue1":"It is Food",
+    "Clue2":"It is white in Colour and we eat for Lunch"
+    },
+    "Mobile":{
+    "Clue1":"It is an Electronic Item",
+    "Clue2":"We use to call others using it"
+    },
+    "House":{
+    "Clue1":"It is where we live",
+    "Clue2":"it has bedroom , living room and toilet etc"
+    },
+    "Cycle":{
+    "Clue1":"It has two wheels",
+    "Clue2":"It has pedals , bel and a seat for a person to ride"
+    },
+    "Mouse":{
+    "Clue1":"It is Living thing",
+    "Clue2":"It likes to eat cheese"
+    },
+    "Fridge":{
+    "Clue1":"It is used to keep things Fresh",
+    "Clue2":"We store Food Items in it"
+    },
+    "Chair":{
+    "Clue1":"It is Furniture",
+    "Clue2":"You can sit on it"
+    },
+    "Clock":{
+    "Clue1":"It is has two hands",
+    "Clue2":"It shows us the time"
+    },
+    "Pondicherry":{
+    "Clue1":"It is Place Name",
+    "Clue2":"Here is where Appathha and Thathha lives"
+    },
+    "Thanjavur":{
+    "Clue1":"It is Place name",
+    "Clue2":"Here is where Paatti and Thathha lives"
+    }
+}
