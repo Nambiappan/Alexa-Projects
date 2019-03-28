@@ -55,3 +55,10 @@ References :
 
 # Backend Server options
 
+The application needs a webserver where the Wordgame logic is running. I could think of below options to acheive this:( but we have more) 
+
+1. Your local machine as webserver with .ngrok to serve the traffic on SSL
+2. Host your Python application on AWS Elastic Beanstalk 
+3. Host your Application on AWS Lamda
+4. Host your Application on Pythonanywhere PAAS cloud
+
