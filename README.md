@@ -5,7 +5,7 @@ Project 1 : Alexa Word Game
 Level : Beginner
 Effort : 2 hour
 
-To be honest, I spent more time to get this word game working as I am new to Python Programming and Alexa. I faced issues while installing the Flask-ask package in the my machine  and  then understaning the Alexa : Intent , Slot and Utterences.
+To be honest, I spent more time to get this word game working as I am new to Python Programming and Alexa. I faced issues (see below) while installing the Flask-ask package in  my machine  and  then understaning the Alexa : Intent , Slot and Utterences.
 Once I understood , it looked very simple program.
 
 The App works as below :
@@ -40,9 +40,13 @@ Before jumping into action for the project , I would suggest you to go through t
 
 1. Flask_Ask package and it is minimum required code structure.
 2. Alexa - Launch Intent , Built-In Intent , Custom Intent , Fall Back Intent
+
 	
-					
-					
+Issues Faced:					
+1. During installation of Flask-ask , I was getting the "python setup.py egg_info" failed with error code 1".  However this was resolved after degrading the PIP version 9.0.3. ( pip3 install pip=9.0.3)
+
+2. Next error was related to Cryptograpy package version. The current version of cryptograpy was not supporting my code . Hence I had to degrade it to <2.2 which resolved my error. ( pips install cryptograpy< 2.2)
+
 					
 References :
 1. https://flask-ask.readthedocs.io/
